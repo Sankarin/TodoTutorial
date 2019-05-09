@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:tutoriallib] /home/sankari/SankariLib/TodoToturialView/tutoriallib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.develop.todo.tutoriallib.MainActivity
+ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:windowSoftInputMode
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:12:19-60
+	android:name
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:12:62-118
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+MERGED from [:tutoriallib] /home/sankari/SankariLib/TodoToturialView/tutoriallib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:tutoriallib] /home/sankari/SankariLib/TodoToturialView/tutoriallib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		ADDED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sankari/SankariLib/TodoToturialView/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/1e72926a2e1d1a75666d336b6ccc7dfc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/a19792a25f94d2b94be37773b3d66f9e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/cdbe092bbe2bbf423dd5b7c043d0dfb9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/19e766b5c67687433dcdf1565e7854c2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/d220d131f333bfd7c7a7d440e1d1cb14/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/ff10e954269284e3964f73e76886de5b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/29c069c4fddec9f7d643035ce703975b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/331ad7da5b7b6a42828ba999e4d65f25/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/69505cf6d9bb8ea78304690d266c4558/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/sankari/.gradle/caches/transforms-2/files-2.1/233d501265f0fa75a2b97ac35d06b882/AndroidManifest.xml:26:13-58

@@ -1,0 +1,4 @@
+#Thu May 09 12:59:09 IST 2019
+base.0=/home/sankari/SankariLib/TodoToturialView/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
